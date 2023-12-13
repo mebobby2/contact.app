@@ -15,5 +15,9 @@ pip install Flask
 
 ## Run App
 ```
+. .venv/bin/activate
 flask --app app.py run
 ```
+
+## Book Source Code
+https://github.com/bigskysoftware/contact-app
